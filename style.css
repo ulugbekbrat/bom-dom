@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Inter'; 
+    text-align: center;
+    margin-top: 130px;
+    font-size: 30px;
+}
+
+#image_result-blok{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
